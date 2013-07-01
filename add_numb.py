@@ -1,3 +1,4 @@
+#I am writting (typing) this because I was told too...
 def add_two(a,b):
    return a+b
 def main():
