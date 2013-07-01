@@ -1,4 +1,7 @@
+
 #I am writting (typing) this because I was told too...
+# group editing Jay and Greenpiggy
+
 def add_two(a,b):
    return a+b
 def main():
